@@ -12,3 +12,11 @@ I have also tested with other algorithms such as Linear regression and KNN to ch
 ## Project2
 
 This contains password strength predictor
+
+It uses logistic regression to counter the problem
+
+## Project3
+
+This contains machine learning model to predict stocks using Time Series Analysis
+
+MA,AR Model
