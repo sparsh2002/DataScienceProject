@@ -19,4 +19,4 @@ It uses logistic regression to counter the problem
 
 This contains machine learning model to predict stocks using Time Series Analysis
 
-MA,AR Model
+ARIMA Model
